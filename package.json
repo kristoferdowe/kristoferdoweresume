@@ -2,7 +2,7 @@
   "name": "portfolio-v1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://kristoferdowe.com",
+  "homepage": "http://kristoferdowe.github.io/kristoferdoweresume",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.1",
     "@testing-library/jest-dom": "^5.11.6",
