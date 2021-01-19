@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kristoferdoweresume/static/css/main.2363708f.chunk.css",
+    "main.js": "/kristoferdoweresume/static/js/main.dee612e8.chunk.js",
+    "main.js.map": "/kristoferdoweresume/static/js/main.dee612e8.chunk.js.map",
+    "runtime-main.js": "/kristoferdoweresume/static/js/runtime-main.f231eb4d.js",
+    "runtime-main.js.map": "/kristoferdoweresume/static/js/runtime-main.f231eb4d.js.map",
+    "static/css/2.2f2c82fc.chunk.css": "/kristoferdoweresume/static/css/2.2f2c82fc.chunk.css",
+    "static/js/2.ee760fc7.chunk.js": "/kristoferdoweresume/static/js/2.ee760fc7.chunk.js",
+    "static/js/2.ee760fc7.chunk.js.map": "/kristoferdoweresume/static/js/2.ee760fc7.chunk.js.map",
+    "index.html": "/kristoferdoweresume/index.html",
+    "static/css/2.2f2c82fc.chunk.css.map": "/kristoferdoweresume/static/css/2.2f2c82fc.chunk.css.map",
+    "static/css/main.2363708f.chunk.css.map": "/kristoferdoweresume/static/css/main.2363708f.chunk.css.map",
+    "static/js/2.ee760fc7.chunk.js.LICENSE.txt": "/kristoferdoweresume/static/js/2.ee760fc7.chunk.js.LICENSE.txt",
+    "static/media/pfp3.fe9b33f5.png": "/kristoferdoweresume/static/media/pfp3.fe9b33f5.png",
+    "static/media/portfolio-photo.e4abe7d4.jpg": "/kristoferdoweresume/static/media/portfolio-photo.e4abe7d4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f231eb4d.js",
+    "static/css/2.2f2c82fc.chunk.css",
+    "static/js/2.ee760fc7.chunk.js",
+    "static/css/main.2363708f.chunk.css",
+    "static/js/main.dee612e8.chunk.js"
+  ]
+}
